@@ -30,7 +30,7 @@ int main()
     cin>>op;
     cout << "Enter second number: ";
     cin >> num2;
-    cout << "result  is: " << calc(num1,op,num2 )<< endl;
+    cout << "result is: " << calc(num1,op,num2 )<< endl;
 
     return 0;
 }
